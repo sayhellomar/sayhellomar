@@ -13,6 +13,18 @@ I enjoy turning ideas into real digital products, optimizing performance, and cr
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mysql,wordpress,git,github,vite,vscode,npm,figma,xd,ps,vercel,netlify)](https://skillicons.dev)
 
+<h3>Skills Table (Tech Stack)</h3>
+
+| Category  | Technologies |
+| ------------- | ------------- |
+| Frontend  | React, JavaScript, Tailwind CSS, HTML5, CSS3  |
+| Backend  | Node.js, Express.js  |
+| Database  | MongoDB, MySQL  |
+| WordPress  | Custom Themes, Custom Plugins, WooCommerce, Elementor  |
+| Tools  | Git, GitHub, Thunder Client, Vite, NPM  |
+| Design  | Affinity, Figma, Adobe Photoshop, XD  |
+| Other  | REST APIs, JWT Auth, Firebase, React Router  |
+
 
 <h3>My GitHub contributions summary</h3>
 
