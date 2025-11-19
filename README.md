@@ -1,4 +1,4 @@
-<kbd><img src="https://i.ibb.co.com/dJHF6bPR/github-profile.jpg" /></kbd>
+<kbd><img src="https://i.ibb.co.com/XxGSbT63/github-profile.jpg" /></kbd>
 
 ## 👋 Hi there, I'm Omar Ali!
 
