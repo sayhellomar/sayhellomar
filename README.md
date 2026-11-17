@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hi, I'm Omar Ali, a Web Developer with a professional background in WordPress development and a growing focus on Full Stack Web Development.
+👋 Hi, I'm Omar Ali, a Full Stack & WordPress Developer at Grantnet LLC, building modern web applications and scalable WordPress solutions.
 
 My web development journey began in 2016 with WordPress. Since then, I've developed **15+ HTML templates and WordPress themes with over 800 sales** and had the opportunity to **work with 170+ clients**. Along the way, I've expanded my skills in JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, MySQL, and PostgreSQL, building modern web applications with a focus on clean, maintainable code and practical solutions.
 
@@ -52,12 +52,9 @@ I'm continuously learning and improving my skills to become a better software en
 
 ##
 
-
-![](https://komarev.com/ghpvc/?username=sayhellomar&color=FE6244)
-
 <h3>Where to find me</h3>
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/colored/linkedin.svg)](https://www.linkedin.com/in/sayhellomar)
 [![Github](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/colored/github.svg)](https://github.com/sayhellomar)
 
-
+![](https://komarev.com/ghpvc/?username=sayhellomar&color=FE6244)
