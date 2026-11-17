@@ -1,52 +1,63 @@
-<kbd><img src="https://i.ibb.co.com/27CtHJYy/banner.png" /></kbd>
+<kbd><img src="https://themestrace.com/images/banner-fse.png" /></kbd>
 
 ## About Me
 
-👋 Hi there, I'm **Omar Ali**, My professional web development journey began in 2016 with CodexCoder, where I built my first two WordPress websites. Those projects went on to achieve 100+ sales, giving me the confidence to pursue WordPress development as a long-term career.
+👋 Hi, I'm Omar Ali, a Web Developer with a professional background in WordPress development and a growing focus on Full Stack Web Development.
 
-In 2017, I reached an important milestone by publishing my first template on ThemeForest. After its approval, I continued creating premium products and have since developed 10+ HTML templates and WordPress themes for the marketplace.
+My web development journey began in 2016 with WordPress. Since then, I've developed **15+ HTML templates and WordPress themes with over 800 sales** and had the opportunity to **work with 170+ clients**. Along the way, I've expanded my skills in JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, MySQL, and PostgreSQL, building modern web applications with a focus on clean, maintainable code and practical solutions.
+
+My professional experience includes:
+
+| Year | Company / Platform | 👨‍💻 Role & Responsibilities |
+|---|---|---|
+| 2016 - 2017 | CodexCoder | Started my professional journey by developing WordPress websites. Published my first approved template and developed commercial HTML templates and WordPress themes. |
+| 2018 | DroitLab | Worked as a WordPress Theme Developer, contributing to two commercial themes and client projects. |
+| 2019 – Present | Upwork & Fiverr | Worked with international clients, building and customizing WordPress websites & developed 15+ HTML templates and WordPress themes for ThemeForest marketplace |
+| 2022 – Present | Grantnet LLC | Working as a Full-Stack & WordPress Developer, developing and maintaining 20+ WordPress themes, building the company's official support website, and working on modern web applications. |
+
+I'm continuously learning and improving my skills to become a better software engineer. I'm open to opportunities in Full-Stack Web Development, Software Engineering, and WordPress Development, where I can contribute my experience, learn from a collaborative team, and build meaningful products.
 
 
-In 2018, I joined DroitLab as a WordPress Theme Developer. During my time there, I worked on two commercial WordPress themes while also contributing to several client projects.
+##
+
+<h3>My GitHub contributions summary</h3>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayhellomar&theme=dark&hide_border=true&border_radius=4&fire=FB4362&stroke=FB4362&ring=FB4362&currStreakNum=FB4362&currStreakLabel=FB4362" alt="GitHub Streak"" />
+</p>
+
+##
+
+<h3>When I code, I rely on</h3>
+<p><i>From frontend interfaces to backend services and databases, here's the tech stack<br> I use to build complete web applications.</i></p>
+<p>
+  <a href="https://sayhellomar.com">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,mysql,postgresql,firebase,git,github,postman,vite,vscode,npm,wordpress,figma,xd,ps,vercel,netlify&perline=8" />
+  </a>
+</p>
+
+##
 
 
-Since 2019, I've been working with clients through Upwork and Fiverr, helping businesses and agencies build custom WordPress websites. Alongside client work, I continued developing themes and templates for ThemeForest, combining product development with real-world client experience.
+<h3>Technical Skills</h3>
 
+| Category  | Technologies & Skills |
+| ------------- | ------------- |
+| Frontend Development  | HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Tailwind CSS  |
+| Backend Development  | Node.js, Express.js, REST APIs, JWT Authentication  |
+| Database & Backend Services  | MongoDB, MySQL, PostgreSQL, Firebase  |
+| WordPress Development  | Custom Theme Development, Custom Plugin Development, WooCommerce, Elementor  |
+| Tools & Workflow  | Git, GitHub, Vite, NPM, Thunder Client, Postman, Bruno  |
+| UI/UX & Design  | Figma, Affinity, Adobe Photoshop, Adobe XD  |
+| Libraries & Routing  | React Router  |
 
-Since October 2022, I've been working as a WordPress Developer at Grantnet LLC. During this time, I've developed more than 20 WordPress themes and built the company's official support website. Working on both commercial products and internal platforms has further strengthened my experience in custom WordPress development, performance, and maintainable code.
+##
 
-
-Today, I've had the opportunity to work with 170+ clients and contribute to a wide range of WordPress products, building websites that are fast, scalable, and easy to manage.
-
-I'm always open to new opportunities and collaborations. Feel free to connect if you're looking for a WordPress developer or would like to discuss your next project.
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sayhellomar)
-
-<p>I enjoy turning ideas into real digital products, optimizing performance, and crafting pixel-perfect user experiences.</p>
 
 ![](https://komarev.com/ghpvc/?username=sayhellomar&color=FE6244)
 
-<h3>When I code, I rely on</h3>
+<h3>Where to find me</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,wordpress,react,mysql,git,github,vite,vscode,npm,figma,xd,ps,vercel,netlify)](https://sayhellomar.com)
-
-
-<h3>Skills Table (Tech Stack)</h3>
-
-| Category  | Technologies |
-| ------------- | ------------- |
-| Frontend  | HTML5, CSS3, Tailwind CSS, JavaScript, React  |
-| WordPress  | Custom Themes, Custom Plugins, WooCommerce, Elementor  |
-| Database  | MongoDB, MySQL  |
-| Tools  | Git, GitHub, Thunder Client, Vite, NPM  |
-| Design  | Affinity, Figma, Adobe Photoshop, XD  |
-| Other  | REST APIs, JWT Auth, Firebase, React Router  |
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/colored/linkedin.svg)](https://www.linkedin.com/in/sayhellomar)
+[![Github](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/colored/github.svg)](https://github.com/sayhellomar)
 
 
-
-
-<h3>Github Summary</h3>
-
-| GitHub Streak |
-| ------------- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sayhellomar&hide_border=true&theme=transparent)](https://git.io/streak-stats)
