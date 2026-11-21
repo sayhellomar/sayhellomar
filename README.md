@@ -1,4 +1,4 @@
-<kbd><img src="https://themestrace.com/images/banner-fse.png" /></kbd>
+<kbd><img src="https://sayhellomar.com/images/banner-minimal.jpg" /></kbd>
 
 ## About Me
 
