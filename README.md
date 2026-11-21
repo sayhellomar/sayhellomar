@@ -1,4 +1,4 @@
-<kbd><img src="https://sayhellomar.com/images/banner-minimal.jpg" /></kbd>
+<img src="https://sayhellomar.com/images/banner-minimal.jpg" />
 
 ## About Me
 
