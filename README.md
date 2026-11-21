@@ -1,6 +1,6 @@
 <img src="https://sayhellomar.com/images/banner-minimal.jpg" />
 
-## About Me
+<h3>About Me</h3>
 
 👋 Hi, I'm Omar Ali, a Full Stack & WordPress Developer at Grantnet LLC, building modern web applications and scalable WordPress solutions.
 
